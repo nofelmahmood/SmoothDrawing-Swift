@@ -27,14 +27,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1097B03D1A71982C00B75EAA /* Drawing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Drawing.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1097B03D1A71982C00B75EAA /* SmoothDrawing-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SmoothDrawing-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1097B0411A71982C00B75EAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1097B0421A71982C00B75EAA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1097B0441A71982C00B75EAA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1097B0471A71982C00B75EAA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1097B0491A71982C00B75EAA /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		1097B04C1A71982C00B75EAA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		1097B0521A71982C00B75EAA /* DrawingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DrawingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1097B0521A71982C00B75EAA /* SmoothDrawing-SwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SmoothDrawing-SwiftTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1097B0571A71982C00B75EAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1097B0581A71982C00B75EAA /* DrawingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingTests.swift; sourceTree = "<group>"; };
 		1097B0621A72988000B75EAA /* DrawableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawableView.swift; sourceTree = "<group>"; };
@@ -70,8 +70,8 @@
 		1097B03E1A71982C00B75EAA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1097B03D1A71982C00B75EAA /* Drawing.app */,
-				1097B0521A71982C00B75EAA /* DrawingTests.xctest */,
+				1097B03D1A71982C00B75EAA /* SmoothDrawing-Swift.app */,
+				1097B0521A71982C00B75EAA /* SmoothDrawing-SwiftTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -118,9 +118,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1097B03C1A71982C00B75EAA /* Drawing */ = {
+		1097B03C1A71982C00B75EAA /* SmoothDrawing-Swift */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1097B05C1A71982C00B75EAA /* Build configuration list for PBXNativeTarget "Drawing" */;
+			buildConfigurationList = 1097B05C1A71982C00B75EAA /* Build configuration list for PBXNativeTarget "SmoothDrawing-Swift" */;
 			buildPhases = (
 				1097B0391A71982C00B75EAA /* Sources */,
 				1097B03A1A71982C00B75EAA /* Frameworks */,
@@ -130,14 +130,14 @@
 			);
 			dependencies = (
 			);
-			name = Drawing;
+			name = "SmoothDrawing-Swift";
 			productName = Drawing;
-			productReference = 1097B03D1A71982C00B75EAA /* Drawing.app */;
+			productReference = 1097B03D1A71982C00B75EAA /* SmoothDrawing-Swift.app */;
 			productType = "com.apple.product-type.application";
 		};
-		1097B0511A71982C00B75EAA /* DrawingTests */ = {
+		1097B0511A71982C00B75EAA /* SmoothDrawing-SwiftTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1097B05F1A71982C00B75EAA /* Build configuration list for PBXNativeTarget "DrawingTests" */;
+			buildConfigurationList = 1097B05F1A71982C00B75EAA /* Build configuration list for PBXNativeTarget "SmoothDrawing-SwiftTests" */;
 			buildPhases = (
 				1097B04E1A71982C00B75EAA /* Sources */,
 				1097B04F1A71982C00B75EAA /* Frameworks */,
@@ -148,9 +148,9 @@
 			dependencies = (
 				1097B0541A71982C00B75EAA /* PBXTargetDependency */,
 			);
-			name = DrawingTests;
+			name = "SmoothDrawing-SwiftTests";
 			productName = DrawingTests;
-			productReference = 1097B0521A71982C00B75EAA /* DrawingTests.xctest */;
+			productReference = 1097B0521A71982C00B75EAA /* SmoothDrawing-SwiftTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -172,7 +172,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1097B0381A71982C00B75EAA /* Build configuration list for PBXProject "Drawing" */;
+			buildConfigurationList = 1097B0381A71982C00B75EAA /* Build configuration list for PBXProject "SmoothDrawing-Swift" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -185,8 +185,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1097B03C1A71982C00B75EAA /* Drawing */,
-				1097B0511A71982C00B75EAA /* DrawingTests */,
+				1097B03C1A71982C00B75EAA /* SmoothDrawing-Swift */,
+				1097B0511A71982C00B75EAA /* SmoothDrawing-SwiftTests */,
 			);
 		};
 /* End PBXProject section */
@@ -235,7 +235,7 @@
 /* Begin PBXTargetDependency section */
 		1097B0541A71982C00B75EAA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1097B03C1A71982C00B75EAA /* Drawing */;
+			target = 1097B03C1A71982C00B75EAA /* SmoothDrawing-Swift */;
 			targetProxy = 1097B0531A71982C00B75EAA /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -347,7 +347,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Drawing/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "SmoothDrawing-Swift";
 				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
@@ -360,7 +360,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Drawing/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "SmoothDrawing-Swift";
 				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
@@ -379,7 +379,7 @@
 				);
 				INFOPLIST_FILE = DrawingTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "SmoothDrawing-SwiftTests";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Drawing.app/Drawing";
 			};
 			name = Debug;
@@ -394,7 +394,7 @@
 				);
 				INFOPLIST_FILE = DrawingTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "SmoothDrawing-SwiftTests";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Drawing.app/Drawing";
 			};
 			name = Release;
@@ -402,7 +402,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1097B0381A71982C00B75EAA /* Build configuration list for PBXProject "Drawing" */ = {
+		1097B0381A71982C00B75EAA /* Build configuration list for PBXProject "SmoothDrawing-Swift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1097B05A1A71982C00B75EAA /* Debug */,
@@ -411,7 +411,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1097B05C1A71982C00B75EAA /* Build configuration list for PBXNativeTarget "Drawing" */ = {
+		1097B05C1A71982C00B75EAA /* Build configuration list for PBXNativeTarget "SmoothDrawing-Swift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1097B05D1A71982C00B75EAA /* Debug */,
@@ -419,7 +419,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		1097B05F1A71982C00B75EAA /* Build configuration list for PBXNativeTarget "DrawingTests" */ = {
+		1097B05F1A71982C00B75EAA /* Build configuration list for PBXNativeTarget "SmoothDrawing-SwiftTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1097B0601A71982C00B75EAA /* Debug */,

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1097B03C1A71982C00B75EAA"
-               BuildableName = "Drawing.app"
-               BlueprintName = "Drawing"
-               ReferencedContainer = "container:Drawing.xcodeproj">
+               BuildableName = "SmoothDrawing-Swift.app"
+               BlueprintName = "SmoothDrawing-Swift"
+               ReferencedContainer = "container:SmoothDrawing-Swift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1097B0511A71982C00B75EAA"
-               BuildableName = "DrawingTests.xctest"
-               BlueprintName = "DrawingTests"
-               ReferencedContainer = "container:Drawing.xcodeproj">
+               BuildableName = "SmoothDrawing-SwiftTests.xctest"
+               BlueprintName = "SmoothDrawing-SwiftTests"
+               ReferencedContainer = "container:SmoothDrawing-Swift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1097B0511A71982C00B75EAA"
-               BuildableName = "DrawingTests.xctest"
-               BlueprintName = "DrawingTests"
-               ReferencedContainer = "container:Drawing.xcodeproj">
+               BuildableName = "SmoothDrawing-SwiftTests.xctest"
+               BlueprintName = "SmoothDrawing-SwiftTests"
+               ReferencedContainer = "container:SmoothDrawing-Swift.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1097B03C1A71982C00B75EAA"
-            BuildableName = "Drawing.app"
-            BlueprintName = "Drawing"
-            ReferencedContainer = "container:Drawing.xcodeproj">
+            BuildableName = "SmoothDrawing-Swift.app"
+            BlueprintName = "SmoothDrawing-Swift"
+            ReferencedContainer = "container:SmoothDrawing-Swift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1097B03C1A71982C00B75EAA"
-            BuildableName = "Drawing.app"
-            BlueprintName = "Drawing"
-            ReferencedContainer = "container:Drawing.xcodeproj">
+            BuildableName = "SmoothDrawing-Swift.app"
+            BlueprintName = "SmoothDrawing-Swift"
+            ReferencedContainer = "container:SmoothDrawing-Swift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1097B03C1A71982C00B75EAA"
-            BuildableName = "Drawing.app"
-            BlueprintName = "Drawing"
-            ReferencedContainer = "container:Drawing.xcodeproj">
+            BuildableName = "SmoothDrawing-Swift.app"
+            BlueprintName = "SmoothDrawing-Swift"
+            ReferencedContainer = "container:SmoothDrawing-Swift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

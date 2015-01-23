@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Drawing.xcodeproj">
+      location = "self:SmoothDrawing-Swift.xcodeproj">
    </FileRef>
 </Workspace>
