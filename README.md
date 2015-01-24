@@ -12,7 +12,7 @@ This is the <strong>swift version</strong> and it demostrates how to implement s
 ##How to Use ?
 
 Add this file to your project 
-DrawableView.Swift
+<strong>DrawableView.Swift</strong>
 
 In <strong>Xcode's Interface builder</strong> select the view you want be able to draw on and <strong>set its class</strong> to <strong>DrawableView.swift</strong>.
 
@@ -20,7 +20,7 @@ Run the project.
 
 And that's it.
 
-<strong>Happy Drawing</strong>
+###Happy Drawing
 
 ## Copyright
 Copyright (c) 2015 Nofel Mahmood
