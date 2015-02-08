@@ -5,7 +5,7 @@ Thanks to <a href="https://www.altamiracorp.com/blog/employee-posts/capture-a-si
 
 Failing to find any drawing tutorials in <strong>swift</strong> I have converted the one discussed in Jason Harwig's tutorial in swift. 
 
-For complete tutorial check out this <a href="http://cocoabite.com/post/108944078704/smooth-drawing-in-swift">blog post</a> on <a href="http://www.cocoabite.com">CocoaBite</a>.
+For complete tutorial check out this <a href="http://cocoabite.com/post/110000170154/smooth-drawing-in-swift">blog post</a> on <a href="http://www.cocoabite.com">CocoaBite</a>.
 
 This is the <strong>swift version</strong> and it demostrates how to implement smooth drawing in iOS.
 
