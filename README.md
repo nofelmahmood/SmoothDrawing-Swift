@@ -3,13 +3,13 @@ A smooth drawing app in Swift.
 
 Thanks to <a href="https://www.altamiracorp.com/blog/employee-posts/capture-a-signature-on-ios">Jason Harwig's Tutorial</a> . I have learned to implement smooth drawing in iOS using objective c.
 
-Failing to find any drawing tutorials in <strong>swift</strong> I have converted the one discussed in Jason Harwig's tutorial in swift. 
+Failing to find any drawing tutorials in <strong>swift</strong> I have converted the one discussed in the tutorial in swift. 
 
 For complete tutorial check out this <a href="http://cocoabite.com/post/110000170154/smooth-drawing-in-swift">blog post</a> on <a href="http://www.cocoabite.com">CocoaBite</a>.
 
 This is the <strong>swift version</strong> and it demostrates how to implement smooth drawing in iOS.
 
-##How to Use ?
+## How to Use ?
 
 Add this file to your project 
 <strong>DrawableView.Swift</strong>
@@ -20,7 +20,7 @@ Run the project.
 
 And that's it.
 
-###Happy Drawing
+### Happy Drawing
 
 ## Copyright
 Copyright (c) 2015 Nofel Mahmood
