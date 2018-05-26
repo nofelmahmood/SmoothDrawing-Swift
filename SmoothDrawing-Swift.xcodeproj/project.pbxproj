@@ -164,7 +164,7 @@
 				TargetAttributes = {
 					1097B03C1A71982C00B75EAA = {
 						CreatedOnToolsVersion = 6.1.1;
-						DevelopmentTeam = UBAKNBA97C;
+						DevelopmentTeam = 3SQ44YK5BM;
 					};
 					1097B0511A71982C00B75EAA = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -345,10 +345,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3SQ44YK5BM;
 				INFOPLIST_FILE = Drawing/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "SmoothDrawing-Swift";
 				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -358,10 +360,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3SQ44YK5BM;
 				INFOPLIST_FILE = Drawing/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "SmoothDrawing-Swift";
 				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
@@ -418,6 +422,7 @@
 				1097B05E1A71982C00B75EAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1097B05F1A71982C00B75EAA /* Build configuration list for PBXNativeTarget "SmoothDrawing-SwiftTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +431,7 @@
 				1097B0611A71982C00B75EAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
